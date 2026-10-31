@@ -51,7 +51,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- APP HEADER ---
-st.title("⚡ SpendTracker")
+st.title("💸 SpendTracker")
 st.caption("An academic project integrating OOP, ADSA, DBMS, and Machine Learning.")
 st.divider()
 
