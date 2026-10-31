@@ -9,7 +9,7 @@ from models.anomaly_engine import SpendingAnomalyEngine
 # --- PAGE CONFIGURATION ---
 st.set_page_config(
     page_title="SpendTracker | Minimalist Intelligence",
-    page_icon="⚡",
+    page_icon="💸",
     layout="centered",
     initial_sidebar_state="expanded"
 )
