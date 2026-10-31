@@ -1,4 +1,4 @@
-# ⚡ SpendTracker
+# 💸 SpendTracker
 
 Hey! For my 3rd-semester computer science project, I wanted to build something we can actually use every day. **SpendTracker** is a minimalist, expense tracker designed to tie all my core subjects—DBMS, OOP, ADSA, and Machine Learning—into one clean, working tool that looks good for project submission.
 
